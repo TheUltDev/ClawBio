@@ -1,8 +1,5 @@
 {
   "$schema": "https://schema.railpack.com",
-  "provider": "python",
-  "build": {
-    "buildCommand": "pip install -e '.[bot]'"
-  }
+  "provider": "python"
 }
 
